@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC-6_Delete_last_element_in_LinkedList", "UC-6_Delete_last_element_in_LinkedList.csproj", "{559AE37E-615C-4FAC-AAD9-7808597C8BD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{559AE37E-615C-4FAC-AAD9-7808597C8BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559AE37E-615C-4FAC-AAD9-7808597C8BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559AE37E-615C-4FAC-AAD9-7808597C8BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559AE37E-615C-4FAC-AAD9-7808597C8BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E464CDC-1CD2-44A3-B867-1638A64A1C13}
+	EndGlobalSection
+EndGlobal
